@@ -32,8 +32,7 @@ ausgelegt wie den Barbaren, den Mönch und den Kreuzritter.
 Die verwendeten Programme beschränken sich auf die FLipMouse Software
 und JoyToKey.
 
-Die Konfigurationsdateien, sowie ein Cheatsheet befinden sich
-[[hier]{.ul}](http://google.com).
+Die [Konfigurationsdateien](./Dateien), sowie ein [Cheatsheet](./Dateien/Diablo3-Cheatsheet.pdf) sind verlinkt.
 
 Der Grund für die Verwendung von JoyToKey ist, dass Diablo 3
 standardmäßig auf dem PC keine Controllerunterstützung anbietet. Da die
