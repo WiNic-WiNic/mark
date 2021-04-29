@@ -62,7 +62,7 @@ ausgewählt worden.
 
 -   Button 3 Press Joystick Button (Val: 3)
 
-![](./Img/media/image4.PNG)
+![FLipMouse Einstellungen](./Img/media/image4.PNG)
 
 Abbildung 1: FLipMouse GUI im Sip/Puff Actions Reiter
 
@@ -78,10 +78,7 @@ aktualisieren. Hierzu muss wieder auf File gedrückt werden und dann auf
 Exit, ansonsten wird JoyToKey nur minimiert und in die Taskleiste
 gelegt.
 
-![](Img\media\image5.PNG){width="6.712639982502187in"
-height="4.710509623797026in"}
-
-Abbildung 2:Anleitung zum Öffnen des \"config folders\"
+![Anleitung zum Öffnen des \"config folders\"](./Img/media/image5.PNG)
 
 In allen Profilen werden die Sip/Puff Actions (Mundstück Aktionen) nicht
 verändert.
@@ -115,8 +112,7 @@ Die Profile haben folgende Funktionen:
 Zwischen den Profilen kann durch Drücken der externen Taster gewechselt
 werden, wie in der Abbildung 1 zu sehen ist.
 
-![](Img\media\image6.png){width="6.268055555555556in"
-height="8.49375in"}
+![Ablaufdiagram der Profile](./Img/media/image6.PNG)
 
 Abbildung 3: Ablaufdiagramm der verschiedenen Profile
 
@@ -135,13 +131,11 @@ ungefähr im ersten Drittel aller Tastenbelegungen scheint der Befehl
 neben dem Befehl kann dieser eingestellt werden und die nächste Aktion
 (hier Mausrad rauf drehen) wird für diese Funktion eingespeichert.
 
-![](Img\media\image7.png){width="6.388059930008749in"
-height="3.5955129046369203in"}
+![Diablo 3 Menü Bildschirm](./Img/media/image7.PNG)
 
 Abbildung 4:Diablo 3 Menü Bildschirm
 
-![](Img\media\image8.png){width="6.267716535433071in"
-height="4.208333333333333in"}
+!Diablo 3 einstellen der erzwungenen Bewegung](./Img/media/image8.PNG)
 
 Abbildung 5: Diablo 3 einstellen der erzwungenen Bewegung
 
