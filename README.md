@@ -1,4 +1,14 @@
-## Diablo 3 Einstellungsanleitung:
+# Einstellungsanleitung für Diablo 3:
+
+[Diablo3](README.md#Diablo3): kurze Spielebeschreibung
+[Programme](README.md#Programme): alle verwendeten Programme
+[Hardware](README.md#Hardware): verwenndete Hardware
+Einstellungen
+[FLipMouse](README.md#FLipMouse)
+[JoyToKey](README.md#JoyToKey)
+[Diablo 3](README.md#Diablo 3)
+
+## Diablo 3
 
 Das Spielprinzip von Diablo 3 ist simpel: „Hau so lange auf einen
 Gegner, bis er stirbt und Gegenstände fallen lässt". Begleitet wird
@@ -18,7 +28,7 @@ gelten und kleine Verbesserungen gewähren.
 Anmerkung: Die vorgestellte Konfiguration ist für Nahkampfklassen
 ausgelegt wie den Barbaren, den Mönch und den Kreuzritter.
 
-## Programme:
+## Programme
 
 Die verwendeten Programme beschränken sich auf die FLipMouse Software
 und JoyToKey.
@@ -32,12 +42,13 @@ FLipMouse aber keine Funktion hat, in der Maus Funktion den Mauszeiger
 in die Mitte zurückspringen zu lassen wird die FLipMouse als Joystick
 verwendet und in JoyToKey werden die Aktionen ausgeführt.
 
-## Hardware:
+## Hardware
 
 Verwendet wurden die FLipMouse, ein passendes Stativ und zwei externe
 Button, welche an die FLipMouse angeschlossen wurden.
 
-## Einstellungen FLipMouse:
+## Einstellungen 
+### FLipMouse
 
 Die vorgenommenen Einstellungen in der FLipMouse sind wie folgt
 ausgewählt worden.
@@ -66,7 +77,7 @@ ausgewählt worden.
 
 Abbildung 1: FLipMouse GUI im Sip/Puff Actions Reiter
 
-## Einstellungen JoyToKey
+### JoyToKey
 
 In JoyToKey wurden 5 Profile erstellt, um im Spiel selbstständig
 navigieren zu können. Diese Profile befinden sich bei den
@@ -116,7 +127,7 @@ werden, wie in der Abbildung 1 zu sehen ist.
 
 Abbildung 3: Ablaufdiagramm der verschiedenen Profile
 
-## Einstellungen Diablo 3
+### Diablo 3
 
 Im Spiel muss die erzwungene Bewegung eingestellt werden. Diese ist
 notwendig, um Fähigkeiten auszuführen, während sich der Character
