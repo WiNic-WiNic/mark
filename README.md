@@ -1,8 +1,4 @@
-**Nico** ![Ein Bild, das Text enthält. Automatisch generierte
-Beschreibung](Img\media\image3.png){width="6.298611111111111in"
-height="4.975694444444445in"}
-
-## Diablo 3:
+## Diablo 3 Einstellungsanleitung:
 
 Das Spielprinzip von Diablo 3 ist simpel: „Hau so lange auf einen
 Gegner, bis er stirbt und Gegenstände fallen lässt". Begleitet wird
@@ -66,8 +62,7 @@ ausgewählt worden.
 
 -   Button 3 Press Joystick Button (Val: 3)
 
-![](Img\media\image4.PNG){width="5.779069335083115in"
-height="5.24375in"}
+![](./Img/media/image4.PNG)
 
 Abbildung 1: FLipMouse GUI im Sip/Puff Actions Reiter
 
