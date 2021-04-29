@@ -88,6 +88,8 @@ gelegt.
 
 ![Anleitung zum Öffnen des \"config folders\"](./Img/media/image5.PNG)
 
+Abbildung 2: Anleitung zum Öffnen des \"config folders\"
+
 In allen Profilen werden die Sip/Puff Actions (Mundstück Aktionen) nicht
 verändert.
 
