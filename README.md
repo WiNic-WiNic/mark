@@ -4,9 +4,9 @@
 - [Programme](README.md#Programme): alle verwendeten Programme
 - [Hardware](README.md#Hardware): verwenndete Hardware
 - Einstellungen
-- [FLipMouse](README.md#FLipMouse)
-- [JoyToKey](README.md#JoyToKey)
-- [Diablo 3](README.md#Diablo 3)
+-- [FLipMouse](README.md#FLipMouse)
+-- [JoyToKey](README.md#JoyToKey)
+-- [Diablo 3](README.md#Diablo 3)
 
 ## Diablo 3
 
