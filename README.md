@@ -1,12 +1,12 @@
 # Einstellungsanleitung für Diablo 3:
 
-[Diablo3](README.md#Diablo3): kurze Spielebeschreibung
-[Programme](README.md#Programme): alle verwendeten Programme
-[Hardware](README.md#Hardware): verwenndete Hardware
-Einstellungen
-[FLipMouse](README.md#FLipMouse)
-[JoyToKey](README.md#JoyToKey)
-[Diablo 3](README.md#Diablo 3)
+- [Diablo3](README.md#Diablo3): kurze Spielebeschreibung
+- [Programme](README.md#Programme): alle verwendeten Programme
+- [Hardware](README.md#Hardware): verwenndete Hardware
+- Einstellungen
+- [FLipMouse](README.md#FLipMouse)
+- [JoyToKey](README.md#JoyToKey)
+- [Diablo 3](README.md#Diablo 3)
 
 ## Diablo 3
 
