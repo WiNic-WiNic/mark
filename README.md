@@ -135,7 +135,7 @@ neben dem Befehl kann dieser eingestellt werden und die nächste Aktion
 
 Abbildung 4:Diablo 3 Menü Bildschirm
 
-!Diablo 3 einstellen der erzwungenen Bewegung](./Img/media/image8.PNG)
+![Diablo 3 einstellen der erzwungenen Bewegung](./Img/media/image8.PNG)
 
 Abbildung 5: Diablo 3 einstellen der erzwungenen Bewegung
 
