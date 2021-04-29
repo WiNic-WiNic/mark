@@ -112,7 +112,7 @@ Die Profile haben folgende Funktionen:
 Zwischen den Profilen kann durch Drücken der externen Taster gewechselt
 werden, wie in der Abbildung 1 zu sehen ist.
 
-![Ablaufdiagram der Profile](./Img/media/image6.PNG)
+![Ablaufdiagram der Profile](./Img/media/image6.png)
 
 Abbildung 3: Ablaufdiagramm der verschiedenen Profile
 
@@ -131,11 +131,11 @@ ungefähr im ersten Drittel aller Tastenbelegungen scheint der Befehl
 neben dem Befehl kann dieser eingestellt werden und die nächste Aktion
 (hier Mausrad rauf drehen) wird für diese Funktion eingespeichert.
 
-![Diablo 3 Menü Bildschirm](./Img/media/image7.PNG)
+![Diablo 3 Menü Bildschirm](./Img/media/image7.png)
 
 Abbildung 4:Diablo 3 Menü Bildschirm
 
-![Diablo 3 einstellen der erzwungenen Bewegung](./Img/media/image8.PNG)
+![Diablo 3 einstellen der erzwungenen Bewegung](./Img/media/image8.png)
 
 Abbildung 5: Diablo 3 einstellen der erzwungenen Bewegung
 
