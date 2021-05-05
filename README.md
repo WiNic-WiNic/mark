@@ -54,21 +54,21 @@ ausgewählt worden.
 
 **Sip/Puff Actions (Mundstück Aktionen)**
 
--   Sip Function Click Right Mouse Button
+-   Sip Function --> Click Right Mouse Button
 
--   Strong Sip Toggle Right Mouse Button
+-   Strong Sip --> Toggle Right Mouse Button
 
--   Puff Function Click Left Mouse Button
+-   Puff Function --> Click Left Mouse Button
 
--   Strong Puff \[No Command\]
+-   Strong Puff --> \[No Command\]
 
 **Button Actions (Tasten Aktionen)**
 
--   Button 1 (intern) \[No Command\]
+-   Button 1 (intern) --> \[No Command\]
 
--   Button 2 Press Joystick Button (Val: 1)
+-   Button 2 --> Press Joystick Button (Val: 1)
 
--   Button 3 Press Joystick Button (Val: 3)
+-   Button 3 --> Press Joystick Button (Val: 3)
 
 ![FLipMouse Einstellungen](./Img/media/image4.PNG)
 
