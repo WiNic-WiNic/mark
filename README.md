@@ -30,7 +30,7 @@ ausgelegt wie den Barbaren, den Mönch und den Kreuzritter.
 ## Programme
 
 Die verwendeten Programme beschränken sich auf die FLipMouse Software
-und JoyToKey.
+und JoyToKey. Sowie den [battle.net](https://www.blizzard.com/de-de/download/) launcher um Diablo 3 herunterzuladen, in diesem sind die aktuellsten Spiele vom Blizzard Unternehmen gesammelt.
 
 Die [Konfigurationsdateien](./Dateien), sowie ein [Cheatsheet](./Dateien/Diablo3_Cheatsheet.pdf) sind verlinkt.
 
