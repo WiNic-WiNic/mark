@@ -1,10 +1,10 @@
 # Einstellungsanleitung für Rocket League:
 
-1. [Rocket League](README.md#Rocket-League): kurze Spielebeschreibung
-1. [Programme](README.md#Programme): alle verwendeten Programme
-1. [Hardware](README.md#Hardware): verwendete Hardware
-1. [FLipMouse Einstellungen](README.md#FLipMouse-Einstellungen)
-1. [Rocket League Einstellungen](README.md#Rocket-League-Einstellungen)
+1. [Rocket League](Rocket_League.md#Rocket-League): kurze Spielebeschreibung
+1. [Programme](Rocket_League.md#Programme): alle verwendeten Programme
+1. [Hardware](Rocket_League.md#Hardware): verwendete Hardware
+1. [FLipMouse Einstellungen](Rocket_League.md#FLipMouse-Einstellungen)
+1. [Rocket League Einstellungen](Rocket_League.md#Rocket-League-Einstellungen)
 
 ## Rocket League
 
