@@ -38,6 +38,10 @@ Verwendet wurden die FLipMouse und ein passendes Stativ.
 
 Es gibt für dieses Spiel zwei Profile, welche in den slots der FLipMouse hinterlegt sind.
 
+![FLipMouse Einstellungen](./img/FLipMouse_set.png)
+
+Abbildung 1: FLipMouse GUI im Sip/Puff Actions Reiter
+
 ### Maus Profil
 Als erstes ist ein einfaches Maus Profil eingestellt um im Menü navigieren zu können. Mit einem leichten saugen wird ein linksklick ausgeführt und mit leichtem pusten wird ein rechtsklick ausgeführt. Um auf das Fahrzeugprofil zu kommen muss stark in das Mundstück gepustet werden. 
 
@@ -83,9 +87,7 @@ Für die fahr Aktionen wird Hold Keys verwendet, da somit das runterdrücken der
 
 In Rocket League müssen keine extra Einstellungen vorgenommen werden.
 
-![FLipMouse Einstellungen](./img/FLipMouse_set.png)
 
-Abbildung 1: FLipMouse GUI im Sip/Puff Actions Reiter
 
 
 
